@@ -11,15 +11,13 @@ require( "http" ).createServer(function(i_ask,i_giv){           // [AAA.001]
                                                                 // [AAA.004]
     };;                                                         // [AAA.004]
                                                                 // [AAA.004]
-    if( "/HELLO" == sob.m_url ){
+    if( "/HELLO" == sob.m_url ){                                // [AAA.005]
 
-
-        i_giv.end( "[F1_BITCH]" );
-        
-
-    }else{
-        sob.m_giv.end( sob.m_url ); /**F1 BITCH**/                  // [AAA.004]
-    };;
+        i_giv.end( "[F1_BITCH]" );                              // [AAA.005]
+    }else{                                                      // [AAA.005]
+    
+        sob.m_giv.end( sob.m_url ); /**F1 BITCH**/              // [AAA.004]
+    };;                                                         // [AAA.005]
                                                                 // [AAA.001]
 }).listen( process.env.PORT );                                  // [AAA.001]
 
