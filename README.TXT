@@ -1,5 +1,10 @@
 
 
+AAA.005 :
+    Path "/HELLO" responds with "[F1_BITCH]"
+    All other paths respond with path itself.
+    Also, uploaded current video footage.
+
 AAA.004 : 
     Printing out path as text response.
 
