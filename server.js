@@ -11,7 +11,7 @@
 
         };;
 
-        sob.m_giv.end( sob.m_url );
+        sob.m_giv.end( sob.m_uxrl );dasd
                                                                 // [AAA.001]
     }).listen( process.env.PORT );                              // [AAA.001]
 
