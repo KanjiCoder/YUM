@@ -1,5 +1,13 @@
 
+    const l_url = require( "url" );
 
+    var sob ={ 
+        m_ask : i_ask
+    ,   m_giv : i_giv
+    ,   m_url = l_url.parse( i_ask.url , 1 ).pathname
+    };;
+
+    sob.i_giv.end( sob.m_url );
 
 AAA.003 
     Created README.TXT
