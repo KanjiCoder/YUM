@@ -1,4 +1,19 @@
 
+AAA.007 : ____________________________________________________
+
+    "/SELF" path to serve yourself.
+
+    BASED_ON[ AIM_025.flv ]
+
+AAA.006 :
+
+    Case insensitive path... 
+    
+    And... Throw in some "mimetypes" for reasons.
+
+    BASED_ON[ AIM_025.flv ]
+
+////////////////////////////////////////////////////////////////
 
 AAA.005 : JUL_05_06PM : https://youtube.com/shorts/mTVjV-Zh0v4
 
