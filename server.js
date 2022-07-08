@@ -21,7 +21,7 @@ require( "http" ).createServer(function(i_ask,i_giv){           // [AAA.001]
                                                                 // [AAA.004]
     };;                                                         // [AAA.004]
 
-    sob.m_url =( sob.m_url.toUpperCase() );      //!#MRI#!//    
+    sob.m_url =( sob.m_url.toUpperCase() );      //!#MRI#!//    // [AAA.007]
 
                                                                 // [AAA.004]
     if( "/HELLO" == sob.m_url ){                                // [AAA.005]
